@@ -1,0 +1,9 @@
+{
+  "appId": "com.example.sajilorental",
+  "appName": "Sajilo Rental",
+  "webDir": "www",
+  "server": {
+    "url": "https://sajilorental.com.np/mobileapp/index",
+    "cleartext": false
+  }
+}
